@@ -31,10 +31,11 @@ pip install pydub simpleaudio
 Usage
 Clone the Repository:
 
-bash
-Copy code
+
+
 git clone https://github.com/DaDudeKC/SouthwestsSecretDjBoard.git
 cd virtual-dj-chopped-screwed
+
 Prepare Your Audio File:
 
 Place your audio file in the project directory. Update the file path in the virtual_dj_backend.py script.
