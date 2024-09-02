@@ -41,11 +41,10 @@ Prepare Your Audio File:
 Place your audio file in the project directory. Update the file path in the virtual_dj_backend.py script.
 Run the Script:
 
-bash
-Copy code
 python virtual_dj_backend.py
 This will load the audio file, apply pitch control, and play the track with the configured effects.
 Example
+
 The provided code demonstrates how to:
 
 Load an audio file.
